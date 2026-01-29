@@ -6,7 +6,7 @@ saya membuat sebuah web yang berisikan data pribadi, yang dibuat menggunakan htm
 jika menggunakan kode td maka tulisannya tidak akan bercetak tebal, tetapi jika menggunakan th maka tulisan tersebut akan bercetak tebal. table yang saya gunakan juga bordernya 1.
 
 3. hr
-saya menggunakan <hr> untuk memisahkan antar kalimat, dimana nanti akan terdapat garis yang memisahkannya.
+saya menggunakan hr untuk memisahkan antar kalimat, dimana nanti akan terdapat garis yang memisahkannya.
 
 4. br
 <br> digunakan untuk memisahkan atau memberi jarak antar kalimatnya saja. 
@@ -22,7 +22,7 @@ saya menggunakan ul dan juga ol untuk membuat sebuah kalimat yang memiliki simbo
     </ul>
     
     <ol type="Hobi">
-        <li>Olahraga</li>
+        <li></li>
     </ol>
 
 7. form
